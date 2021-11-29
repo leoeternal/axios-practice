@@ -1,0 +1,14 @@
+.footer-wrapper {
+  border: 1px solid;
+  height: 70px;
+  width: 99%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.footer-wrapper p {
+  color: white;
+}
